@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates-faq.html 
+keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions, troubleshooting 
+summary: Consultez les réponses aux questions fréquemment posées sur les mises à jour logicielles. 
+---
+= Questions fréquemment posées sur les mises à jour logicielles
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Si vous souhaitez en savoir plus sur les mises à jour logicielles ou si vous avez besoin d'aide pour le dépannage, vous pouvez consulter ces questions pour obtenir une réponse rapide.
+
+*Quelle est l'URL des mises à jour du logiciel ?*
+
+Pour l'URL, dans un navigateur, saisissez : https://console.netapp.com/["https://console.netapp.com/"^] pour accéder à la console NetApp .
+
+*Avez-vous besoin d'une licence pour utiliser les mises à jour logicielles ?*
+
+Un fichier de licence NetApp (NLF) n'est pas requis.
+
+*Pourquoi ne puis-je pas afficher le cluster dans l'onglet historique même après avoir mis à jour la version ONTAP du cluster ?*
+
+Il faut compter 2 à 3 heures pour que le cluster apparaisse dans l’onglet historique.  Une fois la version ONTAP du cluster mise à jour, AutoSupport est généré.  Il faut 2 à 3 heures pour traiter les données AutoSupport et refléter la dernière version d' ONTAP.
+
+*Pourquoi est-ce que je vois l'ancienne version d' ONTAP dans le tableau de bord des mises à jour logicielles même après avoir mis à jour la version ONTAP du cluster ?*
+
+Il faut compter 2 à 3 heures pour que le cluster apparaisse dans l’onglet historique.  Une fois la version ONTAP du cluster mise à jour, AutoSupport est généré.  Il faut 2 à 3 heures pour traiter les données AutoSupport et refléter la dernière version d' ONTAP.
+
+*Pourquoi est-ce que je vois des écrans différents pour différentes mises à jour ?*
+
+Cela est dû à la version actuelle ONTAP et à l'indisponibilité d'un agent de console pour les clusters.  Un agent de console effectue la mise à jour ONTAP dans la console et ne nécessite pas que vous quittiez la console pour une mise à jour.  Si vous ne disposez pas d'un agent de console, vous serez redirigé vers le Gestionnaire système et devrez ressaisir les informations d'identification du cluster ONTAP .  Pour plus d'informations sur le processus de mise à jour d' ONTAP pour différentes versions d' ONTAP, consultezlink:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Systèmes ONTAP pris en charge"] .
+
+*De quoi ai-je besoin pour découvrir des clusters ?*
+
+Pour effectuer la mise à jour ONTAP pour le cluster souhaité, vous avez besoin de l'adresse IP du cluster ONTAP et des informations d'identification d'administrateur pour vous connecter au cluster.  Dans le cadre de la découverte de cluster, vous devez fournir ces détails afin que la mise à jour ONTAP puisse être exécutée automatiquement.
+
+Vous devez également disposer de l’un des rôles d’accès suivants : administrateur de l’organisation, administrateur de dossier ou de projet ou administrateur de stockage.

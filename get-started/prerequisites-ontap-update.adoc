@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites-ontap-update.html 
+keywords: prerequisites for ontap update, ontap update requirements, ontap update versions, prepare for ontap update 
+summary: Passez en revue les prérequis et les exigences avant de procéder à votre mise à jour ONTAP . 
+---
+= Préparez-vous à mettre à jour ONTAP à l'aide des mises à jour logicielles
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous devez examiner les conditions préalables et les exigences avant de procéder à votre mise à jour ONTAP .  Vous pouvez utiliser les mises à jour logicielles pour vérifier l'état de préparation de votre système, votre connexion, votre accès au réseau et votre navigateur Web.
+
+.Rôle de console NetApp requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage, visualiseur de stockage ou spécialiste de l'état du système.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["En savoir plus sur les rôles d’accès à la console."^]
+
+Pour utiliser les mises à jour logicielles, vous devez vous assurer que votre système répond à toutes les exigences.
+
+* Un système est configuré dans la console.
+* Les informations d’identification de l’administrateur sont disponibles pour le cluster souhaité lors de la mise à jour du logiciel.
+* Tous les nœuds du cluster envoient des données AutoSupport .
+* Tous les nœuds doivent fonctionner sur ONTAP 9.10 ou des versions ultérieures.
+* Les nœuds ne doivent pas être dans une configuration MetroCluster .
+

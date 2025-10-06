@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/update-storage-system.html 
+keywords: update ontap storage system 
+summary: Mettez à jour votre système de stockage ONTAP pour profiter des fonctionnalités nouvelles et améliorées. 
+---
+= Lancer la mise à jour ONTAP à l'aide des mises à jour logicielles
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Après avoir identifié la version cible ONTAP , corrigé et reconnu tous les bloqueurs, vous pouvez maintenant lancer la mise à jour de votre système de stockage ONTAP .
+
+.Étapes
+. Dans la navigation de gauche de la console, sélectionnez *Santé* > *Mises à jour logicielles*.
++
+La liste des clusters nécessitant une mise à jour logicielle s'affiche.
+
+. Identifiez la version cible ONTAP pour votre système de stockage.  Pour plus d'informations sur l'identification de la version cible ONTAP , consultezlink:../ONTAP/choose-ontap-910-later.html["Comparez les versions ONTAP pour comprendre les avantages et les risques liés à l'utilisation des mises à jour logicielles"] .
+. Corriger et reconnaître les bloqueurs ONTAP .  Pour plus d'informations sur la résolution des problèmes de blocage, consultezlink:../ONTAP/fix-blockers-warnings.html["Corrigez tous les bloqueurs à l'aide de mises à jour logicielles avant une mise à niveau ONTAP"] .
+. Lisez et acceptez le contrat de licence utilisateur final.
++
+Attendez que l’image ONTAP soit récupérée.
+
+. Cliquez sur *Installer la mise à jour* pour terminer le processus de mise à jour.
+

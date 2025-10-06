@@ -1,0 +1,40 @@
+---
+indexpage:
+  title: Documentation des mises à jour logicielles
+  keywords: software updates, update ONTAP, upgrade ONTAP, ONTAP version, ONTAP 9.8
+  lead: Les mises à jour logicielles permettent aux clients de rationaliser les mises
+    à jour ONTAP .  Il automatise les processus d’évaluation, de planification et
+    d’exécution.
+  tiles:
+  - title: Commencer
+    links:
+    - title: En savoir plus sur les mises à jour logicielles
+      url: "/get-started/software-updates.html"
+    - title: Quoi de neuf dans les mises à jour logicielles
+      url: "/release-notes/whats-new.html"
+    - title: Démarrage rapide
+      url: "/get-started/quick-start-ontap-update.html"
+    - title: Prérequis
+      url: "/get-started/prerequisites-ontap-update.html"
+    - title: Connectez-vous aux mises à jour du logiciel
+      url: "/get-started/login-software-updates.html"
+    - title: FAQ
+      url: "/get-started/software-updates-faq.html"
+  - title: Utiliser les mises à jour logicielles
+    links:
+    - title: Choisissez la version cible ONTAP 9.10 ou ultérieure
+      url: "/ONTAP/choose-ontap-910-later.html"
+    - title: Corriger et reconnaître les bloqueurs ONTAP
+      url: "/ONTAP/fix-blockers-warnings.html"
+    - title: Mise à jour complète du système de stockage ONTAP
+      url: "/ONTAP/update-storage-system.html"
+    - title: Valider l'état de la mise à jour du système de stockage ONTAP
+      url: "/ONTAP/validate-storage-system-update.html"
+  - title: Blogs et communauté
+    links:
+    - title: Console NetApp
+      url: https://www.netapp.com/console
+    - title: Services de données NetApp
+      url: https://www.netapp.com/data-services/
+    - title: Communauté NetApp
+      url: https://community.netapp.com/

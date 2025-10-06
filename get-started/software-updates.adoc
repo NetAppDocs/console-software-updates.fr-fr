@@ -1,0 +1,72 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates.html 
+keywords: ontap 9.10, ontap update, supported systems for ontap update, ontap version, software updates benefits 
+summary: 'Mettez à jour votre système de stockage ONTAP en toute transparence pour profiter des fonctionnalités nouvelles et améliorées à l"aide de mises à jour logicielles.' 
+---
+= En savoir plus sur les mises à jour logicielles
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez utiliser des mises à jour logicielles pour permettre aux clients de rationaliser les mises à jour ONTAP .  Cela peut vous aider à réduire les coûts, à accélérer les charges de travail critiques et à améliorer la sécurité.
+
+Les mises à jour logicielles automatisent les processus d’évaluation, de planification et d’exécution.  Le conseiller de mise à niveau intelligent prédit quelles versions conviennent le mieux au système spécifique, recommande des versions pour résoudre les problèmes, améliore l'efficacité et augmente la sécurité du système, permettant aux clients de déterminer la meilleure option pour répondre à leurs besoins.  Il distribue ensuite le progiciel et exécute automatiquement la mise à niveau non distributive automatisée (ANDU), indépendamment des services de support.
+
+
+
+== Console NetApp
+
+Les mises à jour logicielles sont accessibles via la console NetApp .
+
+La console NetApp fournit une gestion centralisée des services de stockage et de données NetApp dans les environnements sur site et cloud à l'échelle de l'entreprise. La console est requise pour accéder aux services de données NetApp et les utiliser. En tant qu'interface de gestion, il vous permet de gérer de nombreuses ressources de stockage à partir d'une seule interface. Les administrateurs de console peuvent contrôler l’accès au stockage et aux services pour tous les systèmes de l’entreprise.
+
+Vous n'avez pas besoin de licence ni d'abonnement pour commencer à utiliser NetApp Console et vous n'encourez des frais que lorsque vous devez déployer des agents de console dans votre cloud pour garantir la connectivité à vos systèmes de stockage ou à vos services de données NetApp . Cependant, certains services de données NetApp accessibles depuis la console sont sous licence ou basés sur un abonnement.
+
+En savoir plus sur le https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["Console NetApp"] .
+
+
+
+== Systèmes ONTAP pris en charge
+
+Vous pouvez effectuer la mise à jour ONTAP à l'aide de mises à jour logicielles uniquement si vous utilisez ONTAP 9.10 ou des versions ultérieures.
+
+Les informations suivantes fournissent le processus de mise à jour du logiciel pour différentes versions ONTAP :
+
+|===
+| *Version actuelle ONTAP * | *Processus de mise à jour* 
+
+
+| 9.12 et supérieur | Toutes les étapes de la mise à jour ONTAP se déroulent dans la console. 
+
+
+| 9,10 à 9,12 | La préparation de la mise à jour ONTAP s'effectue dans les écrans de mises à jour du logiciel.  Vous serez redirigé vers le Gestionnaire système pour effectuer la mise à jour ONTAP proprement dite.  Pour exécuter toutes les étapes de la mise à jour ONTAP dans la console, vous devezlink:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html["configurer un agent de console"] . 
+
+
+| 9,8 à 9,10 | La préparation de la mise à jour ONTAP s'effectue dans les écrans de mises à jour du logiciel.  Vous serez redirigé vers le Gestionnaire système pour effectuer la mise à jour ONTAP proprement dite. 
+
+
+| En dessous de 9,7 | La mise à jour ONTAP automatique n'est pas prise en charge pour ce cluster.  Vous devez mettre à jour ONTAP manuellement. Pour plus d'informations, consultez la section link:https://docs.netapp.com/us-en/ontap/upgrade/index.html["mettre à jour manuellement vos systèmes de stockage"] . 
+|===
+
+
+== Avantages de l'utilisation des mises à jour logicielles
+
+La mise à jour de votre système de stockage ONTAP peut vous aider à améliorer les performances, la sécurité et les fonctionnalités de votre système de stockage.
+
+Certains des avantages de la mise à jour de votre système de stockage ONTAP sont :
+
+* Vous pouvez accéder aux dernières fonctionnalités et améliorations proposées par ONTAP , telles que de nouveaux protocoles, des services de données et des options d'intégration cloud.
+* Vous pouvez corriger tous les bugs ou vulnérabilités susceptibles d’affecter la stabilité, la fiabilité ou la sécurité de votre système.
+* Vous pouvez optimiser les performances et l’efficacité de votre système en appliquant les derniers correctifs et améliorations.
+* Vous pouvez garantir la compatibilité et l’interopérabilité avec d’autres produits NetApp , des applications tierces et des fournisseurs de cloud.
+* Vous pouvez bénéficier du support et de la maintenance continus fournis par NetApp pour les dernières versions du système d'exploitation ONTAP .
+
+
+
+
+== Coût
+
+NetApp ne vous facture pas l'utilisation des mises à jour logicielles.

@@ -1,0 +1,9 @@
+= Risques atténués
+:allow-uri-read: 
+
+
+
+
+=== Risques atténués
+
+Dans la section récapitulative des BlueXP software updates, vous pouvez désormais afficher le nombre total de risques qui peuvent être atténués par la mise à jour du système d'exploitation.  Cela permet aux utilisateurs d’évaluer les améliorations de sécurité et de stabilité sur leur base d’installation.

@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: get-started/login-software-updates.html 
+keywords: bluexp login, software updates log in, NetApp Console 
+summary: Connectez-vous et accédez aux mises à jour du logiciel. 
+---
+= Accéder aux mises à jour logicielles
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Pour accéder aux mises à jour logicielles, vous devez vous connecter à la console NetApp .
+
+Connectez-vous avec vos informations d'identification du site de support NetApp ou inscrivez-vous à l'aide de votre adresse e-mail et de votre mot de passe. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["En savoir plus sur la connexion"^] .
+
+.Étapes
+. Ouvrez un navigateur Web et accédez à lalink:https://console.netapp.com/["Console"^] .
++
+La console affiche la page de connexion.
+
+. Connectez-vous à la console.
+. Dans la navigation de gauche de la console, sélectionnez *Santé > Mises à jour logicielles*.
+

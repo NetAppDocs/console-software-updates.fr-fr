@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/validate-storage-system-update.html 
+keywords: validate status of ontap update, track status of ontap update 
+summary: Validez l’état de votre mise à jour ONTAP pour décider des prochaines étapes à effectuer. 
+---
+= Valider l'état de la mise à jour du système de stockage ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez utiliser les mises à jour logicielles pour valider l’état de la mise à jour ONTAP .
+
+.Étapes
+. Dans la navigation de gauche de la console, sélectionnez *Santé* > *Mises à jour logicielles*.
+. Cliquez sur l'onglet *Historique* pour afficher l'état de la mise à jour ONTAP .
+
+
+
+NOTE: Il faut 2 à 3 heures pour que le cluster apparaisse dans l'onglet historique.

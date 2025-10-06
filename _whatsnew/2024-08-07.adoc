@@ -1,0 +1,11 @@
+= Mise à jour ONTAP
+:allow-uri-read: 
+
+
+
+
+=== Mise à jour ONTAP
+
+Le service de BlueXP software updates offre une expérience de mise à jour transparente aux utilisateurs en atténuant les risques et en garantissant que les clients peuvent exploiter pleinement les fonctionnalités ONTAP .
+
+En savoir plus sur link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["BlueXP software updates"] .

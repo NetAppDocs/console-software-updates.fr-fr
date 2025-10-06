@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/fix-blockers-warnings.html 
+keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
+summary: Corrigez les bloqueurs ONTAP et reconnaissez les avertissements qui vous empêchent de terminer la mise à jour ONTAP . 
+---
+= Corrigez tous les bloqueurs à l'aide de mises à jour logicielles avant une mise à niveau ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Une fois que vous avez identifié la version cible ONTAP pour votre système de stockage ONTAP , vous devez corriger et reconnaître tous les bloqueurs et consulter les avertissements avant de mettre à jour le système de stockage ONTAP .
+
+Vous devez corriger et reconnaître tous les bloqueurs avant de mettre à jour le logiciel.
+
+.Étapes
+. Dans la navigation de gauche de la console, sélectionnez *Santé* > *Mises à jour logicielles*.
++
+La console affiche la liste des clusters nécessitant une mise à jour logicielle.
+
+. Identifiez la version cible ONTAP pour votre système de stockage.  Pour plus d'informations sur l'identification de la version cible ONTAP , consultezlink:../ONTAP/choose-ontap-910-later.html["Comparez les versions ONTAP pour comprendre les avantages et les risques liés à l'utilisation des mises à jour logicielles"] .
+. Après avoir choisi la version cible ONTAP , sélectionnez *Préparer la mise à jour* pour lancer le processus de mise à jour.
++
+La liste des bloqueurs et des avertissements s'affiche.
+
+. Sélectionnez le bloqueur pour afficher les instructions pour corriger le bloqueur.
+. Effectuez manuellement les étapes fournies pour corriger le bloqueur.
+. Sélectionnez les bloqueurs qui ont été corrigés et sélectionnez *Reconnaître la sélection* pour reconnaître que les bloqueurs ont été corrigés.
+
+
+
+NOTE: Vous devez corriger et reconnaître tous les bloqueurs pour procéder à la mise à jour.
+
+. Sélectionnez l’onglet *Avertissements* pour consulter les avertissements avant de procéder à la mise à jour du logiciel.
+. Sélectionnez l'onglet *Reconnaître* pour afficher les bloqueurs qui ont été corrigés.
+. Sélectionnez *Continuer la mise à jour* pour poursuivre le processus de mise à jour.
+
