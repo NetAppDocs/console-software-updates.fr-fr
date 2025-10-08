@@ -11,7 +11,7 @@ summary: Connectez-vous et accédez aux mises à jour du logiciel.
 
 
 [role="lead"]
-Pour accéder aux mises à jour logicielles, vous devez vous connecter à la console NetApp .
+Pour accéder aux mises à jour logicielles, vous devez vous connecter à la NetApp Console.
 
 Connectez-vous avec vos informations d'identification du site de support NetApp ou inscrivez-vous à l'aide de votre adresse e-mail et de votre mot de passe. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["En savoir plus sur la connexion"^] .
 

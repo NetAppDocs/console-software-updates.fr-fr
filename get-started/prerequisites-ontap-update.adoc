@@ -13,7 +13,7 @@ summary: Passez en revue les prérequis et les exigences avant de procéder à v
 [role="lead"]
 Vous devez examiner les conditions préalables et les exigences avant de procéder à votre mise à jour ONTAP .  Vous pouvez utiliser les mises à jour logicielles pour vérifier l'état de préparation de votre système, votre connexion, votre accès au réseau et votre navigateur Web.
 
-.Rôle de console NetApp requis :
+.Rôle de NetApp Console requis :
 Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage, visualiseur de stockage ou spécialiste de l'état du système.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["En savoir plus sur les rôles d’accès à la console."^]
 
 Pour utiliser les mises à jour logicielles, vous devez vous assurer que votre système répond à toutes les exigences.

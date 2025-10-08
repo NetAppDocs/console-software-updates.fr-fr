@@ -15,7 +15,7 @@ Si vous souhaitez en savoir plus sur les mises à jour logicielles ou si vous av
 
 *Quelle est l'URL des mises à jour du logiciel ?*
 
-Pour l'URL, dans un navigateur, saisissez : https://console.netapp.com/["https://console.netapp.com/"^] pour accéder à la console NetApp .
+Pour l'URL, dans un navigateur, saisissez : https://console.netapp.com/["https://console.netapp.com/"^] pour accéder à la NetApp Console.
 
 *Avez-vous besoin d'une licence pour utiliser les mises à jour logicielles ?*
 

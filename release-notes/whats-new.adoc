@@ -23,15 +23,15 @@ Découvrez les nouveautés en matière de mises à jour logicielles.
 
 Les BlueXP software updates ont été renommées mises à jour logicielles.
 
-Vous pouvez y accéder à partir de la barre de navigation de gauche de la console NetApp en sélectionnant *Santé* > *Mises à jour logicielles*.
+Vous pouvez y accéder à partir de la barre de navigation de gauche de la NetApp Console en sélectionnant *Santé* > *Mises à jour logicielles*.
 
 
 
 === BlueXP est désormais NetApp Console
 
-La console NetApp , construite sur la base BlueXP améliorée et restructurée, fournit une gestion centralisée du stockage NetApp et des services de données NetApp dans les environnements sur site et cloud à l'échelle de l'entreprise, offrant des informations en temps réel, des flux de travail plus rapides et une administration simplifiée, hautement sécurisée et conforme.
+La NetApp Console, construite sur la base BlueXP améliorée et restructurée, fournit une gestion centralisée du stockage NetApp et des NetApp Data Services dans les environnements sur site et cloud à l'échelle de l'entreprise, offrant des informations en temps réel, des flux de travail plus rapides et une administration simplifiée, hautement sécurisée et conforme.
 
-Pour plus de détails sur ce qui a changé, consultez le https://docs.netapp.com/us-en/bluexp-relnotes/index.html["Notes de version de la console NetApp"] .
+Pour plus de détails sur ce qui a changé, consultez le https://docs.netapp.com/us-en/bluexp-relnotes/index.html["Notes de version de la NetApp Console"] .
 
 
 
@@ -41,7 +41,7 @@ Pour plus de détails sur ce qui a changé, consultez le https://docs.netapp.com
 
 === Rôle d'accès BlueXP requis
 
-Vous avez désormais besoin de l'un des rôles d'accès suivants pour installer les mises à jour logicielles : *Administrateur de l'organisation*, *Administrateur de dossier ou de projet*, *Administrateur de stockage*, *Visionneur de stockage* ou *Spécialiste de l'état du stockage*.  Les utilisateurs disposant du rôle de visualiseur de stockage disposent de diverses autorisations liées aux mises à jour logicielles, mais ne peuvent pas installer de mises à jour logicielles.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP ."^]
+Vous avez désormais besoin de l'un des rôles d'accès suivants pour installer les mises à jour logicielles : *Administrateur de l'organisation*, *Administrateur de dossier ou de projet*, *Administrateur de stockage*, *Visionneur de stockage* ou *Spécialiste de l'état du stockage*. Les utilisateurs disposant du rôle de visualiseur de stockage disposent de diverses autorisations liées aux mises à jour logicielles, mais ne peuvent pas installer de mises à jour logicielles.link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP ."^]
 
 
 
@@ -51,7 +51,7 @@ Vous avez désormais besoin de l'un des rôles d'accès suivants pour installer 
 
 === Risques atténués
 
-Dans la section récapitulative des BlueXP software updates, vous pouvez désormais afficher le nombre total de risques qui peuvent être atténués par la mise à jour du système d'exploitation.  Cela permet aux utilisateurs d’évaluer les améliorations de sécurité et de stabilité sur leur base d’installation.
+Dans la section récapitulative des BlueXP software updates, vous pouvez désormais afficher le nombre total de risques qui peuvent être atténués par la mise à jour du système d'exploitation. Cela permet aux utilisateurs d’évaluer les améliorations de sécurité et de stabilité sur leur base d’installation.
 
 
 
